@@ -1,17 +1,12 @@
 Noti-Fish Connect Beta App Download
 
-current version: The Native version that was developed with MIT App Inventor
-(this version has the most controls implemented, and only utilizes one major
-'Page' object) if you are wondering why the app looks so janky and unprofessional,
-it is because it is not even a cousin of the project that will be the final app
-for Android and Apple. Like I said, it is a much more useful testing tool because it does far less
-object-passing and behaves more more like a simple BLE radio controller with some controls, once initialized. 
-There is also far less work that needs to be done order to save the file and it is nice how it was developed
-with an online editor. Still waiting on those guys to release full BLE capabilities for iOS devices..
-in which case it would be worth considering using MITAI to obtain the first stable release for the mobile that
-gets things going and allows us to start selling the soonest. For now, this is just a prototpye that rarely
-gets much work done on it anymore, save for proof of concept tests that yield MITAI functionality good
-enough for it to be worth adding the new .apk offered up by the download button on the Noti-Fish Website.
+current version: Newest app version of all versions right now.. more intuitive and visually appealling splash screen,
+		and now scan screen should be able to show some dialouge that can give some guidance for
+		gettign connected
+
+		*scan screen will now not display any devices that are not Noti-Fish Devices
+		so, it is essentially impossible to even test the connectability
+		anymore without having your own Dinger device.
 
 Note: this download is for android mobile users only and has only been tested on the
 newest Sumsung Galaxy devices, and briefly tested on Google Pixel with an emulator.
