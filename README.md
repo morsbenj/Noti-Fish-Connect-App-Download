@@ -1,38 +1,17 @@
 Noti-Fish Connect Beta App Download
 
-current version: Newest app version of all versions right now.. more intuitive and visually appealling splash screen,
-		and now scan screen should be able to show some dialouge that can give some guidance for
-		gettign connected
+current version: Uploaded 3:19 PM 7/3/2024
 
-		*scan screen will now not display any devices that are not Noti-Fish Devices
-		so, it is essentially impossible to even test the connectability
-		anymore without having your own Dinger device.
+This is the lates version of the app with pretty much all intended features fucntioning for android.
+So if you are a user that has an android smartphone looking to download the app for use with you new
+Noti-Fish Device, you have come to the right place. 
 
-Note: this download is for android mobile users only and has only been tested on the
-newest Sumsung Galaxy devices, and briefly tested on Google Pixel with an emulator.
+One step easier would be to go to https://noti.fish  
+then click on download connect beta app, then use the android download button to make it happen automatically
 
 
-HELP WITH DOWNLOAD:
-As the website states near the download button, download the contents of this repository, 
-or what should just be the file titled: 
-  "NotiFishConnect_Installer.apk"
-  [make this download directly to the device you want to testtest out the app on.]
-
-If you are not very familiar with how to work with the file system on your Android
-device, that is okay, just make sure you are paying attention when the download
-completes. There is almost always a little pop-up window near the bottom of the screen
-in your Samsung web browser that shows you the file that was just downloaded. Click
-on this pop-up or the option for it that says "open" before the pop-up does away
-(This way your don't have to go through the trouble of finding where the downloaded 
-file went on your device..... if your android device does not already have the 
-'Android Package Installer' application, it will likely prompt
-you if you want to also install this. Yes, install the android package installer and/or whatever 
-other software is required to complete this download process.This will be useful for 
-downloading any other android beta apps in the future and will help your device understand 
-what to do with an update to this application if we put one out.
-
-*One last thing to note: there will be likely be 1 or more Samsung system warnings that come up,
-warning you thatt he package you are installing is from an unknown source and author. This
-is okay, and there is really no way to avoid this, without offering this app on the actual
-app store, where we are not quite ready to start taking on liability 
-that comes with being on the apple or google play store.
+otherwise, if you insist on downloading it directly from this page, then you should navigate to 
+this github page WITH YOUR SMARTPHONE where this text file must have been found, located at 
+https://github.com/morsbenj/Noti-Fish-Connect-App-Download
+ once there, click on the NotiFishConnect_Installer.apk file, then the option for 'Raw' which will essentially 
+ begin the download process for your smartphone of the app code, given that you are using an android device to do so.
