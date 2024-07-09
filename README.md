@@ -18,3 +18,10 @@ this github page WITH YOUR SMARTPHONE where this text file must have been found,
 https://github.com/morsbenj/Noti-Fish-Connect-App-Download
  once there, click on the NotiFishConnect_Installer.apk file, then the option for 'Raw' which will essentially 
  begin the download process for your smartphone of the app code, given that you are using an android device to do so.
+
+
+
+7/9/2024 Changes:
+Did some formatting of the location feature, and should have cleared bugs that prevent the save to device button 
+from appearing in all cases, and the new coordinates should pop up, plus some loading feedback since often the
+response is not right away from the GPS features of the phone.
