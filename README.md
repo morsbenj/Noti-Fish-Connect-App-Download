@@ -1,9 +1,9 @@
 ![nf_logo_size_87](https://github.com/morsbenj/Noti-Fish-Connect-App-Download/assets/104463900/d5c402bd-9828-4d13-a044-87bf39463792)
 
 
-Noti-Fish Connect Beta App Download
+Noti-Fish Companion
 
-current version: Uploaded 3:19 PM 7/3/2024
+current version: Uploaded 10:04 AM 2/6/2025
 
 This is the lates version of the app with pretty much all intended features fucntioning for android.
 So if you are a user that has an android smartphone looking to download the app for use with you new
@@ -21,7 +21,9 @@ https://github.com/morsbenj/Noti-Fish-Connect-App-Download
 
 
 
-7/9/2024 Changes:
-Did some formatting of the location feature, and should have cleared bugs that prevent the save to device button 
-from appearing in all cases, and the new coordinates should pop up, plus some loading feedback since often the
-response is not right away from the GPS features of the phone.
+2/6 Changes:
+This app should now work with the dinger v3.0 as well as the 2.0, however
+	the options for the number of channels has been decreased to 50
+
+The Roll call is now much faster because it does not wait the full 3 seconds for
+	each device anymore. Instead it continues whenever it gets a response
