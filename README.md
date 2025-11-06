@@ -3,7 +3,7 @@
 
 Noti-Fish Companion
 
-current version: Uploaded 10:04 AM 2/6/2025
+current version: [2.1.1] Uploaded 12:49 PM 11/6/2025
 
 This is the lates version of the app with pretty much all intended features fucntioning for android.
 So if you are a user that has an android smartphone looking to download the app for use with you new
@@ -27,3 +27,9 @@ This app should now work with the dinger v3.0 as well as the 2.0, however
 
 The Roll call is now much faster because it does not wait the full 3 seconds for
 	each device anymore. Instead it continues whenever it gets a response
+
+
+11/6/25 changes:
+This version makes all devices stop advertising that join a network that is collectively not advertising. Also, we have taken the logic out
+	of the debug condition where it was making the refresh button not work when running in release mode. It works now, and the switch updates
+	based on messages from downrange devices - this also now works on all platforms
